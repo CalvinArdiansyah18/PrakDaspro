@@ -6,7 +6,7 @@ Repository ini digunakan untuk **pengumpulan tugas praktik mata kuliah Dasar Pem
 ---
 
 ## 📝 Daftar Tugas
-| Minggu    | Topik                                                                | Status     |
+| Pertemuan | Topik                                                                | Status     |
 |-----------|----------------------------------------------------------------------|------------|
 | 1         | Bahasa Pemrograman (Instalasi Java Development Kit/JDK)              | ✅ Selesai |
 | 2         | Variabel, Tipe Data, Operator dan Input-Output                       | ✅ Selesai |
