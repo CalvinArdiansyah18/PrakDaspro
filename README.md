@@ -12,5 +12,7 @@ Repository ini digunakan untuk **pengumpulan tugas praktik mata kuliah Dasar Pem
 | 2         | Variabel, Tipe Data, Operator dan Input-Output                       | ✅ Selesai |
 | 3         | Operator, Sequence, Flowchart dan Pseudocode                         | ✅ Selesai |
 | 7         | Pemilihan                                                            | ✅ Selesai |
+| 8         | Case Method                                                          | ✅ Selesai |
+| 10        | Perulangan 1                                                         | ✅ Selesai |
 
 ---
