@@ -14,5 +14,7 @@ Repository ini digunakan untuk **pengumpulan tugas praktik mata kuliah Dasar Pem
 | 7         | Pemilihan                                                            | ✅ Selesai |
 | 8         | Case Method                                                          | ✅ Selesai |
 | 10        | Perulangan 1                                                         | ✅ Selesai |
+| 11        | Perulangan 2                                                         | ✅ Selesai |
+| 12        | Array 1                                                              | ✅ Selesai |
 
 ---
